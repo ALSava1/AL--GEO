@@ -1,0 +1,7 @@
+echo "# AL--GEO" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ALSava1/AL--GEO.git
+git push -u origin main
