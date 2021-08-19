@@ -1,2 +1,2 @@
-# AL--GEO
+# AL-
 This is README
